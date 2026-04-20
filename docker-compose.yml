@@ -2,7 +2,7 @@ services:
   web:
     build: .
     ports:
-      - "8000:8000"
+      - "31337:8000"
     environment:
       APP_NAME: ctf_race_website
       SESSION_SECRET: change-me-in-later-stages

@@ -5,7 +5,7 @@ Race is about to start. Hurry up and get these things in order.
 
 1) Portal login route is live, but old hidden path still exists. Remove it after launch.
 2) Backup exports must be cleaned before stream starts.
-3) Do something clever with racer passwords before launch. Leaving them as plain driver names would be peak pit-lane nonsense.
+3) Do something clever with racer passwords before launch. Leaving them as plain driver names would be peak pit-lane nonsense. Some racers upgraded their security, just leave the legacy ones as is and try some different password hashing functions.
 4) Poster pack still has placeholder files from admin safety drill. Keep the competition flyer (competi.jpeg) in racer assets until review clears.
 5) Logs are spilling lap-by-lap chatter. Trim the debug noise before the race snapshot goes live.
 

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Mario-style mushroom icon</title>
+  <desc id="desc">A stylized red mushroom for the Mushroom Cup.</desc>
+  <defs>
+    <radialGradient id="capShade" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#ff4d4d"/>
+      <stop offset="100%" stop-color="#cc0000"/>
+    </radialGradient>
+  </defs>
+  <!-- Mushroom cap -->
+  <ellipse cx="128" cy="80" rx="90" ry="75" fill="url(#capShade)" stroke="#8b0000" stroke-width="8"/>
+  
+  <!-- White spots on cap -->
+  <circle cx="90" cy="50" r="18" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="128" cy="25" r="16" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="166" cy="50" r="18" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="70" cy="80" r="15" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="186" cy="80" r="15" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="100" cy="120" r="14" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  <circle cx="156" cy="120" r="14" fill="#ffffff" stroke="#f0f0f0" stroke-width="2"/>
+  
+  <!-- Mushroom stem -->
+  <rect x="95" y="135" width="66" height="100" fill="#f5f5f5" stroke="#d9d9d9" stroke-width="6" rx="8"/>
+  
+  <!-- Stem shading -->
+  <ellipse cx="128" cy="135" rx="33" ry="15" fill="#ffffff" opacity="0.6"/>
+</svg>

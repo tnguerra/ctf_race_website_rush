@@ -1,0 +1,1039 @@
+[INFO] 2026-04-18T07:09:03Z race-core boot complete
+[INFO] 2026-04-18T07:09:06Z grid sync started for 12 racer profiles
+[DEBUG] 2026-04-18T07:10:12Z privileged endpoint check /admin/seating OK
+[DEBUG] 2026-04-18T07:10:18Z backup link monitor /backup/config.bak reachable
+[WARN] 2026-04-18T07:10:20Z debug mode still writing redacted auth traces
+
+[INFO] 2026-04-18T01:09:10Z telemetry heartbeat seq=1 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:09:17Z telemetry heartbeat seq=2 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:09:24Z telemetry heartbeat seq=3 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:09:31Z telemetry heartbeat seq=4 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:09:38Z telemetry heartbeat seq=5 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:09:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:09:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:09:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:10:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1009
+[INFO] 2026-04-18T01:10:13Z telemetry heartbeat seq=10 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:10:20Z telemetry heartbeat seq=11 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:10:27Z telemetry heartbeat seq=12 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:10:34Z telemetry heartbeat seq=13 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:10:41Z telemetry heartbeat seq=14 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:10:48Z telemetry heartbeat seq=15 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:10:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:11:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:11:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:11:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1019
+[INFO] 2026-04-18T01:11:23Z telemetry heartbeat seq=20 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:11:30Z telemetry heartbeat seq=21 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:11:37Z telemetry heartbeat seq=22 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:11:44Z telemetry heartbeat seq=23 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:11:51Z telemetry heartbeat seq=24 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:11:58Z telemetry heartbeat seq=25 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:12:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:12:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:12:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:12:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1029
+[INFO] 2026-04-18T01:12:33Z telemetry heartbeat seq=30 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:12:40Z telemetry heartbeat seq=31 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:12:47Z telemetry heartbeat seq=32 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:12:54Z telemetry heartbeat seq=33 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:13:01Z telemetry heartbeat seq=34 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:13:08Z telemetry heartbeat seq=35 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:13:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:13:22Z profile refresh racer_slot=02 session_cache=hit
+
+[DEBUG] 2026-04-18T01:13:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:13:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1039
+[INFO] 2026-04-18T01:13:43Z telemetry heartbeat seq=40 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:13:50Z telemetry heartbeat seq=41 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:13:57Z telemetry heartbeat seq=42 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:14:04Z telemetry heartbeat seq=43 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:14:11Z telemetry heartbeat seq=44 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:14:18Z telemetry heartbeat seq=45 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:14:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:14:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:14:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:14:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1049
+[INFO] 2026-04-18T01:14:53Z telemetry heartbeat seq=50 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:15:00Z telemetry heartbeat seq=51 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:15:07Z telemetry heartbeat seq=52 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:15:14Z telemetry heartbeat seq=53 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:15:21Z telemetry heartbeat seq=54 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:15:28Z telemetry heartbeat seq=55 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:15:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:15:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:15:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:15:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1059
+[INFO] 2026-04-18T01:16:03Z telemetry heartbeat seq=60 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:16:10Z telemetry heartbeat seq=61 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:16:17Z telemetry heartbeat seq=62 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:16:24Z telemetry heartbeat seq=63 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:16:31Z telemetry heartbeat seq=64 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:16:38Z telemetry heartbeat seq=65 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:16:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:16:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:16:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:17:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1069
+[INFO] 2026-04-18T01:17:13Z telemetry heartbeat seq=70 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:17:20Z telemetry heartbeat seq=71 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:17:27Z telemetry heartbeat seq=72 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:17:34Z telemetry heartbeat seq=73 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:17:41Z telemetry heartbeat seq=74 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T01:17:48Z telemetry heartbeat seq=75 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:17:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:18:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:18:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:18:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1079
+[INFO] 2026-04-18T01:18:23Z telemetry heartbeat seq=80 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:18:30Z telemetry heartbeat seq=81 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:18:37Z telemetry heartbeat seq=82 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:18:44Z telemetry heartbeat seq=83 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:18:51Z telemetry heartbeat seq=84 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:18:58Z telemetry heartbeat seq=85 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:19:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:19:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:19:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:19:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1089
+[INFO] 2026-04-18T01:19:33Z telemetry heartbeat seq=90 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:19:40Z telemetry heartbeat seq=91 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:19:47Z telemetry heartbeat seq=92 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:19:54Z telemetry heartbeat seq=93 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:20:01Z telemetry heartbeat seq=94 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:20:08Z telemetry heartbeat seq=95 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:20:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:20:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:20:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:20:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1099
+[INFO] 2026-04-18T01:20:43Z telemetry heartbeat seq=100 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:20:50Z telemetry heartbeat seq=101 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:20:57Z telemetry heartbeat seq=102 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:21:04Z telemetry heartbeat seq=103 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:21:11Z telemetry heartbeat seq=104 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:21:18Z telemetry heartbeat seq=105 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:21:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:21:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:21:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:21:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1109
+[INFO] 2026-04-18T01:21:53Z telemetry heartbeat seq=110 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:22:00Z telemetry heartbeat seq=111 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T01:22:07Z telemetry heartbeat seq=112 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:22:14Z telemetry heartbeat seq=113 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:22:21Z telemetry heartbeat seq=114 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:22:28Z telemetry heartbeat seq=115 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:22:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:22:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:22:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:22:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1119
+[INFO] 2026-04-18T01:23:03Z telemetry heartbeat seq=120 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:23:10Z telemetry heartbeat seq=121 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:23:17Z telemetry heartbeat seq=122 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:23:24Z telemetry heartbeat seq=123 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:23:31Z telemetry heartbeat seq=124 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:23:38Z telemetry heartbeat seq=125 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:23:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:23:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:23:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:24:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1129
+[INFO] 2026-04-18T01:24:13Z telemetry heartbeat seq=130 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:24:20Z telemetry heartbeat seq=131 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:24:27Z telemetry heartbeat seq=132 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:24:34Z telemetry heartbeat seq=133 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:24:41Z telemetry heartbeat seq=134 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:24:48Z telemetry heartbeat seq=135 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:24:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:25:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:25:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:25:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1139
+[INFO] 2026-04-18T01:25:23Z telemetry heartbeat seq=140 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:25:30Z telemetry heartbeat seq=141 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:25:37Z telemetry heartbeat seq=142 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:25:44Z telemetry heartbeat seq=143 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:25:51Z telemetry heartbeat seq=144 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:25:58Z telemetry heartbeat seq=145 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:26:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:26:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:26:19Z profile refresh racer_slot=05 session_cache=hit
+
+[WARN] 2026-04-18T01:26:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1149
+[INFO] 2026-04-18T01:26:33Z telemetry heartbeat seq=150 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:26:40Z telemetry heartbeat seq=151 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:26:47Z telemetry heartbeat seq=152 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:26:54Z telemetry heartbeat seq=153 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:27:01Z telemetry heartbeat seq=154 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:27:08Z telemetry heartbeat seq=155 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:27:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:27:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:27:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:27:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1159
+[INFO] 2026-04-18T01:27:43Z telemetry heartbeat seq=160 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:27:50Z telemetry heartbeat seq=161 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:27:57Z telemetry heartbeat seq=162 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:28:04Z telemetry heartbeat seq=163 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:28:11Z telemetry heartbeat seq=164 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:28:18Z telemetry heartbeat seq=165 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:28:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:28:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:28:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:28:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1169
+[INFO] 2026-04-18T01:28:53Z telemetry heartbeat seq=170 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:29:00Z telemetry heartbeat seq=171 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:29:07Z telemetry heartbeat seq=172 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:29:14Z telemetry heartbeat seq=173 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:29:21Z telemetry heartbeat seq=174 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:29:28Z telemetry heartbeat seq=175 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:29:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:29:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:29:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:29:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1179
+[INFO] 2026-04-18T01:30:03Z telemetry heartbeat seq=180 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:30:10Z telemetry heartbeat seq=181 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:30:17Z telemetry heartbeat seq=182 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:30:24Z telemetry heartbeat seq=183 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:30:31Z telemetry heartbeat seq=184 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:30:38Z telemetry heartbeat seq=185 lane_sync=ok cache=warm
+
+[DEBUG] 2026-04-18T01:30:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:30:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:30:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:31:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1189
+[INFO] 2026-04-18T01:31:13Z telemetry heartbeat seq=190 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:31:20Z telemetry heartbeat seq=191 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:31:27Z telemetry heartbeat seq=192 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:31:34Z telemetry heartbeat seq=193 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:31:41Z telemetry heartbeat seq=194 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:31:48Z telemetry heartbeat seq=195 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:31:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:32:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:32:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:32:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1199
+[INFO] 2026-04-18T01:32:23Z telemetry heartbeat seq=200 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:32:30Z telemetry heartbeat seq=201 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:32:37Z telemetry heartbeat seq=202 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:32:44Z telemetry heartbeat seq=203 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:32:51Z telemetry heartbeat seq=204 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:32:58Z telemetry heartbeat seq=205 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:33:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:33:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:33:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:33:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1209
+[INFO] 2026-04-18T01:33:33Z telemetry heartbeat seq=210 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:33:40Z telemetry heartbeat seq=211 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:33:47Z telemetry heartbeat seq=212 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:33:54Z telemetry heartbeat seq=213 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:34:01Z telemetry heartbeat seq=214 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:34:08Z telemetry heartbeat seq=215 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:34:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:34:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:34:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:34:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1219
+[INFO] 2026-04-18T01:34:43Z telemetry heartbeat seq=220 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:34:50Z telemetry heartbeat seq=221 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:34:57Z telemetry heartbeat seq=222 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T01:35:04Z telemetry heartbeat seq=223 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:35:11Z telemetry heartbeat seq=224 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:35:18Z telemetry heartbeat seq=225 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:35:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:35:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:35:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:35:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1229
+[INFO] 2026-04-18T01:35:53Z telemetry heartbeat seq=230 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:36:00Z telemetry heartbeat seq=231 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:36:07Z telemetry heartbeat seq=232 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:36:14Z telemetry heartbeat seq=233 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:36:21Z telemetry heartbeat seq=234 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:36:28Z telemetry heartbeat seq=235 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:36:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:36:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:36:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:36:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1239
+[INFO] 2026-04-18T01:37:03Z telemetry heartbeat seq=240 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:37:10Z telemetry heartbeat seq=241 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:37:17Z telemetry heartbeat seq=242 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:37:24Z telemetry heartbeat seq=243 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:37:31Z telemetry heartbeat seq=244 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:37:38Z telemetry heartbeat seq=245 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:37:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:37:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:37:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:38:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1249
+[INFO] 2026-04-18T01:38:13Z telemetry heartbeat seq=250 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:38:20Z telemetry heartbeat seq=251 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:38:27Z telemetry heartbeat seq=252 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:38:34Z telemetry heartbeat seq=253 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:38:41Z telemetry heartbeat seq=254 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:38:48Z telemetry heartbeat seq=255 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:38:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:39:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:39:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:39:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1259
+
+[INFO] 2026-04-18T01:39:23Z telemetry heartbeat seq=260 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:39:30Z telemetry heartbeat seq=261 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:39:37Z telemetry heartbeat seq=262 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:39:44Z telemetry heartbeat seq=263 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:39:51Z telemetry heartbeat seq=264 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:39:58Z telemetry heartbeat seq=265 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:40:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:40:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:40:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:40:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1269
+[INFO] 2026-04-18T01:40:33Z telemetry heartbeat seq=270 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:40:40Z telemetry heartbeat seq=271 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:40:47Z telemetry heartbeat seq=272 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:40:54Z telemetry heartbeat seq=273 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:41:01Z telemetry heartbeat seq=274 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:41:08Z telemetry heartbeat seq=275 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:41:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:41:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:41:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:41:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1279
+[INFO] 2026-04-18T01:41:43Z telemetry heartbeat seq=280 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:41:50Z telemetry heartbeat seq=281 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:41:57Z telemetry heartbeat seq=282 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:42:04Z telemetry heartbeat seq=283 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:42:11Z telemetry heartbeat seq=284 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:42:18Z telemetry heartbeat seq=285 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:42:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:42:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:42:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:42:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1289
+[INFO] 2026-04-18T01:42:53Z telemetry heartbeat seq=290 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:43:00Z telemetry heartbeat seq=291 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:43:07Z telemetry heartbeat seq=292 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:43:14Z telemetry heartbeat seq=293 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:43:21Z telemetry heartbeat seq=294 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:43:28Z telemetry heartbeat seq=295 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:43:35Z profile refresh racer_slot=09 session_cache=hit
+
+[DEBUG] 2026-04-18T01:43:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:43:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:43:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1299
+[INFO] 2026-04-18T01:44:03Z telemetry heartbeat seq=300 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:44:10Z telemetry heartbeat seq=301 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:44:17Z telemetry heartbeat seq=302 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:44:24Z telemetry heartbeat seq=303 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:44:31Z telemetry heartbeat seq=304 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:44:38Z telemetry heartbeat seq=305 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:44:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:44:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:44:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:45:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1309
+[INFO] 2026-04-18T01:45:13Z telemetry heartbeat seq=310 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:45:20Z telemetry heartbeat seq=311 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:45:27Z telemetry heartbeat seq=312 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:45:34Z telemetry heartbeat seq=313 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:45:41Z telemetry heartbeat seq=314 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:45:48Z telemetry heartbeat seq=315 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:45:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:46:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:46:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:46:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1319
+[INFO] 2026-04-18T01:46:23Z telemetry heartbeat seq=320 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:46:30Z telemetry heartbeat seq=321 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:46:37Z telemetry heartbeat seq=322 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:46:44Z telemetry heartbeat seq=323 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:46:51Z telemetry heartbeat seq=324 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:46:58Z telemetry heartbeat seq=325 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:47:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:47:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:47:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:47:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1329
+[INFO] 2026-04-18T01:47:33Z telemetry heartbeat seq=330 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:47:40Z telemetry heartbeat seq=331 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:47:47Z telemetry heartbeat seq=332 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:47:54Z telemetry heartbeat seq=333 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T01:48:01Z telemetry heartbeat seq=334 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:48:08Z telemetry heartbeat seq=335 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:48:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:48:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:48:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:48:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1339
+[INFO] 2026-04-18T01:48:43Z telemetry heartbeat seq=340 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:48:50Z telemetry heartbeat seq=341 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:48:57Z telemetry heartbeat seq=342 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:49:04Z telemetry heartbeat seq=343 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:49:11Z telemetry heartbeat seq=344 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:49:18Z telemetry heartbeat seq=345 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:49:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:49:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T01:49:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:49:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1349
+[INFO] 2026-04-18T01:49:53Z telemetry heartbeat seq=350 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:50:00Z telemetry heartbeat seq=351 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:50:07Z telemetry heartbeat seq=352 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:50:14Z telemetry heartbeat seq=353 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:50:21Z telemetry heartbeat seq=354 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:50:28Z telemetry heartbeat seq=355 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:50:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:50:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:50:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:50:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1359
+[INFO] 2026-04-18T01:51:03Z telemetry heartbeat seq=360 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:51:10Z telemetry heartbeat seq=361 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:51:17Z telemetry heartbeat seq=362 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:51:24Z telemetry heartbeat seq=363 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:51:31Z telemetry heartbeat seq=364 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:51:38Z telemetry heartbeat seq=365 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:51:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:51:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:51:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:52:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1369
+[INFO] 2026-04-18T01:52:13Z telemetry heartbeat seq=370 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T01:52:20Z telemetry heartbeat seq=371 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:52:27Z telemetry heartbeat seq=372 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:52:34Z telemetry heartbeat seq=373 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:52:41Z telemetry heartbeat seq=374 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:52:48Z telemetry heartbeat seq=375 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:52:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T01:53:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T01:53:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T01:53:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1379
+[INFO] 2026-04-18T01:53:23Z telemetry heartbeat seq=380 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:53:30Z telemetry heartbeat seq=381 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:53:37Z telemetry heartbeat seq=382 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:53:44Z telemetry heartbeat seq=383 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:53:51Z telemetry heartbeat seq=384 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:53:58Z telemetry heartbeat seq=385 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:54:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T01:54:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T01:54:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T01:54:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1389
+[INFO] 2026-04-18T01:54:33Z telemetry heartbeat seq=390 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:54:40Z telemetry heartbeat seq=391 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:54:47Z telemetry heartbeat seq=392 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:54:54Z telemetry heartbeat seq=393 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:55:01Z telemetry heartbeat seq=394 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:55:08Z telemetry heartbeat seq=395 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:55:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T01:55:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T01:55:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T01:55:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1399
+[INFO] 2026-04-18T01:55:43Z telemetry heartbeat seq=400 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:55:50Z telemetry heartbeat seq=401 lane_sync=ok cache=warm
+
+[ALERT] 2026-04-18T07:56:41Z debug artifact retained during rush patch window
+
+FLAG{debug_log_pitlane_trace}
+
+[INFO] 2026-04-18T01:55:57Z telemetry heartbeat seq=402 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:56:04Z telemetry heartbeat seq=403 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:56:11Z telemetry heartbeat seq=404 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:56:18Z telemetry heartbeat seq=405 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:56:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T01:56:32Z profile refresh racer_slot=12 session_cache=hit
+
+[DEBUG] 2026-04-18T01:56:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T01:56:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1409
+[INFO] 2026-04-18T01:56:53Z telemetry heartbeat seq=410 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:57:00Z telemetry heartbeat seq=411 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:57:07Z telemetry heartbeat seq=412 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:57:14Z telemetry heartbeat seq=413 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:57:21Z telemetry heartbeat seq=414 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:57:28Z telemetry heartbeat seq=415 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:57:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T01:57:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T01:57:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T01:57:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1419
+[INFO] 2026-04-18T01:58:03Z telemetry heartbeat seq=420 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:58:10Z telemetry heartbeat seq=421 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:58:17Z telemetry heartbeat seq=422 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:58:24Z telemetry heartbeat seq=423 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:58:31Z telemetry heartbeat seq=424 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:58:38Z telemetry heartbeat seq=425 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:58:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T01:58:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T01:58:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T01:59:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1429
+[INFO] 2026-04-18T01:59:13Z telemetry heartbeat seq=430 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:59:20Z telemetry heartbeat seq=431 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:59:27Z telemetry heartbeat seq=432 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:59:34Z telemetry heartbeat seq=433 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:59:41Z telemetry heartbeat seq=434 lane_sync=ok cache=warm
+[INFO] 2026-04-18T01:59:48Z telemetry heartbeat seq=435 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T01:59:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:00:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:00:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:00:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1439
+[INFO] 2026-04-18T02:00:23Z telemetry heartbeat seq=440 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:00:30Z telemetry heartbeat seq=441 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:00:37Z telemetry heartbeat seq=442 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:00:44Z telemetry heartbeat seq=443 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:00:51Z telemetry heartbeat seq=444 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:00:58Z telemetry heartbeat seq=445 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:01:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:01:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:01:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:01:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1449
+[INFO] 2026-04-18T02:01:33Z telemetry heartbeat seq=450 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:01:40Z telemetry heartbeat seq=451 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:01:47Z telemetry heartbeat seq=452 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:01:54Z telemetry heartbeat seq=453 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:02:01Z telemetry heartbeat seq=454 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:02:08Z telemetry heartbeat seq=455 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:02:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:02:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:02:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:02:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1459
+[INFO] 2026-04-18T02:02:43Z telemetry heartbeat seq=460 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:02:50Z telemetry heartbeat seq=461 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:02:57Z telemetry heartbeat seq=462 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:03:04Z telemetry heartbeat seq=463 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:03:11Z telemetry heartbeat seq=464 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:03:18Z telemetry heartbeat seq=465 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:03:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:03:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:03:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:03:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1469
+[INFO] 2026-04-18T02:03:53Z telemetry heartbeat seq=470 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:04:00Z telemetry heartbeat seq=471 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:04:07Z telemetry heartbeat seq=472 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:04:14Z telemetry heartbeat seq=473 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:04:21Z telemetry heartbeat seq=474 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:04:28Z telemetry heartbeat seq=475 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:04:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:04:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:04:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:04:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1479
+[INFO] 2026-04-18T02:05:03Z telemetry heartbeat seq=480 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:05:10Z telemetry heartbeat seq=481 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:05:17Z telemetry heartbeat seq=482 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:05:24Z telemetry heartbeat seq=483 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:05:31Z telemetry heartbeat seq=484 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:05:38Z telemetry heartbeat seq=485 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:05:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:05:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:05:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:06:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1489
+[INFO] 2026-04-18T02:06:13Z telemetry heartbeat seq=490 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:06:20Z telemetry heartbeat seq=491 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:06:27Z telemetry heartbeat seq=492 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:06:34Z telemetry heartbeat seq=493 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:06:41Z telemetry heartbeat seq=494 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:06:48Z telemetry heartbeat seq=495 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:06:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:07:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:07:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:07:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1499
+[INFO] 2026-04-18T02:07:23Z telemetry heartbeat seq=500 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:07:30Z telemetry heartbeat seq=501 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:07:37Z telemetry heartbeat seq=502 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:07:44Z telemetry heartbeat seq=503 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:07:51Z telemetry heartbeat seq=504 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:07:58Z telemetry heartbeat seq=505 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:08:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:08:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:08:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:08:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1509
+[INFO] 2026-04-18T02:08:33Z telemetry heartbeat seq=510 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:08:40Z telemetry heartbeat seq=511 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:08:47Z telemetry heartbeat seq=512 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:08:54Z telemetry heartbeat seq=513 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:09:01Z telemetry heartbeat seq=514 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:09:08Z telemetry heartbeat seq=515 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:09:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:09:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:09:29Z profile refresh racer_slot=03 session_cache=hit
+
+[WARN] 2026-04-18T02:09:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1519
+[INFO] 2026-04-18T02:09:43Z telemetry heartbeat seq=520 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:09:50Z telemetry heartbeat seq=521 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:09:57Z telemetry heartbeat seq=522 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:10:04Z telemetry heartbeat seq=523 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:10:11Z telemetry heartbeat seq=524 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:10:18Z telemetry heartbeat seq=525 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:10:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:10:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:10:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:10:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1529
+[INFO] 2026-04-18T02:10:53Z telemetry heartbeat seq=530 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:11:00Z telemetry heartbeat seq=531 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:11:07Z telemetry heartbeat seq=532 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:11:14Z telemetry heartbeat seq=533 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:11:21Z telemetry heartbeat seq=534 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:11:28Z telemetry heartbeat seq=535 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:11:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:11:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:11:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:11:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1539
+[INFO] 2026-04-18T02:12:03Z telemetry heartbeat seq=540 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:12:10Z telemetry heartbeat seq=541 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:12:17Z telemetry heartbeat seq=542 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:12:24Z telemetry heartbeat seq=543 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:12:31Z telemetry heartbeat seq=544 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:12:38Z telemetry heartbeat seq=545 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:12:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:12:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:12:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:13:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1549
+[INFO] 2026-04-18T02:13:13Z telemetry heartbeat seq=550 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:13:20Z telemetry heartbeat seq=551 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:13:27Z telemetry heartbeat seq=552 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:13:34Z telemetry heartbeat seq=553 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:13:41Z telemetry heartbeat seq=554 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:13:48Z telemetry heartbeat seq=555 lane_sync=ok cache=warm
+
+[DEBUG] 2026-04-18T02:13:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:14:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:14:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:14:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1559
+[INFO] 2026-04-18T02:14:23Z telemetry heartbeat seq=560 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:14:30Z telemetry heartbeat seq=561 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:14:37Z telemetry heartbeat seq=562 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:14:44Z telemetry heartbeat seq=563 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:14:51Z telemetry heartbeat seq=564 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:14:58Z telemetry heartbeat seq=565 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:15:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:15:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:15:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:15:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1569
+[INFO] 2026-04-18T02:15:33Z telemetry heartbeat seq=570 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:15:40Z telemetry heartbeat seq=571 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:15:47Z telemetry heartbeat seq=572 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:15:54Z telemetry heartbeat seq=573 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:16:01Z telemetry heartbeat seq=574 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:16:08Z telemetry heartbeat seq=575 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:16:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:16:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:16:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:16:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1579
+[INFO] 2026-04-18T02:16:43Z telemetry heartbeat seq=580 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:16:50Z telemetry heartbeat seq=581 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:16:57Z telemetry heartbeat seq=582 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:17:04Z telemetry heartbeat seq=583 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:17:11Z telemetry heartbeat seq=584 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:17:18Z telemetry heartbeat seq=585 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:17:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:17:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:17:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:17:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1589
+[INFO] 2026-04-18T02:17:53Z telemetry heartbeat seq=590 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:18:00Z telemetry heartbeat seq=591 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:18:07Z telemetry heartbeat seq=592 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:18:14Z telemetry heartbeat seq=593 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:18:21Z telemetry heartbeat seq=594 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:18:28Z telemetry heartbeat seq=595 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:18:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:18:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:18:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:18:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1599
+[INFO] 2026-04-18T02:19:03Z telemetry heartbeat seq=600 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:19:10Z telemetry heartbeat seq=601 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:19:17Z telemetry heartbeat seq=602 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:19:24Z telemetry heartbeat seq=603 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:19:31Z telemetry heartbeat seq=604 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:19:38Z telemetry heartbeat seq=605 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:19:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:19:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:19:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:20:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1609
+[INFO] 2026-04-18T02:20:13Z telemetry heartbeat seq=610 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:20:20Z telemetry heartbeat seq=611 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:20:27Z telemetry heartbeat seq=612 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:20:34Z telemetry heartbeat seq=613 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:20:41Z telemetry heartbeat seq=614 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:20:48Z telemetry heartbeat seq=615 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:20:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:21:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:21:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:21:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1619
+[INFO] 2026-04-18T02:21:23Z telemetry heartbeat seq=620 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:21:30Z telemetry heartbeat seq=621 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:21:37Z telemetry heartbeat seq=622 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:21:44Z telemetry heartbeat seq=623 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:21:51Z telemetry heartbeat seq=624 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:21:58Z telemetry heartbeat seq=625 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:22:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:22:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:22:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:22:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1629
+
+[INFO] 2026-04-18T02:22:33Z telemetry heartbeat seq=630 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:22:40Z telemetry heartbeat seq=631 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:22:47Z telemetry heartbeat seq=632 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:22:54Z telemetry heartbeat seq=633 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:23:01Z telemetry heartbeat seq=634 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:23:08Z telemetry heartbeat seq=635 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:23:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:23:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:23:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:23:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1639
+[INFO] 2026-04-18T02:23:43Z telemetry heartbeat seq=640 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:23:50Z telemetry heartbeat seq=641 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:23:57Z telemetry heartbeat seq=642 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:24:04Z telemetry heartbeat seq=643 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:24:11Z telemetry heartbeat seq=644 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:24:18Z telemetry heartbeat seq=645 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:24:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:24:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:24:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:24:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1649
+[INFO] 2026-04-18T02:24:53Z telemetry heartbeat seq=650 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:25:00Z telemetry heartbeat seq=651 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:25:07Z telemetry heartbeat seq=652 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:25:14Z telemetry heartbeat seq=653 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:25:21Z telemetry heartbeat seq=654 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:25:28Z telemetry heartbeat seq=655 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:25:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:25:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:25:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:25:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1659
+[INFO] 2026-04-18T02:26:03Z telemetry heartbeat seq=660 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:26:10Z telemetry heartbeat seq=661 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:26:17Z telemetry heartbeat seq=662 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:26:24Z telemetry heartbeat seq=663 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:26:31Z telemetry heartbeat seq=664 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:26:38Z telemetry heartbeat seq=665 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:26:45Z profile refresh racer_slot=07 session_cache=hit
+
+[DEBUG] 2026-04-18T02:26:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:26:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:27:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1669
+[INFO] 2026-04-18T02:27:13Z telemetry heartbeat seq=670 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:27:20Z telemetry heartbeat seq=671 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:27:27Z telemetry heartbeat seq=672 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:27:34Z telemetry heartbeat seq=673 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:27:41Z telemetry heartbeat seq=674 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:27:48Z telemetry heartbeat seq=675 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:27:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:28:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:28:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:28:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1679
+[INFO] 2026-04-18T02:28:23Z telemetry heartbeat seq=680 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:28:30Z telemetry heartbeat seq=681 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:28:37Z telemetry heartbeat seq=682 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:28:44Z telemetry heartbeat seq=683 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:28:51Z telemetry heartbeat seq=684 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:28:58Z telemetry heartbeat seq=685 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:29:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:29:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:29:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:29:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1689
+[INFO] 2026-04-18T02:29:33Z telemetry heartbeat seq=690 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:29:40Z telemetry heartbeat seq=691 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:29:47Z telemetry heartbeat seq=692 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:29:54Z telemetry heartbeat seq=693 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:30:01Z telemetry heartbeat seq=694 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:30:08Z telemetry heartbeat seq=695 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:30:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:30:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:30:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:30:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1699
+[INFO] 2026-04-18T02:30:43Z telemetry heartbeat seq=700 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:30:50Z telemetry heartbeat seq=701 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:30:57Z telemetry heartbeat seq=702 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:31:04Z telemetry heartbeat seq=703 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:31:11Z telemetry heartbeat seq=704 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:31:18Z telemetry heartbeat seq=705 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:31:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:31:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:31:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:31:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1709
+[INFO] 2026-04-18T02:31:53Z telemetry heartbeat seq=710 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:32:00Z telemetry heartbeat seq=711 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:32:07Z telemetry heartbeat seq=712 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:32:14Z telemetry heartbeat seq=713 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:32:21Z telemetry heartbeat seq=714 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:32:28Z telemetry heartbeat seq=715 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:32:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:32:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:32:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:32:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1719
+[INFO] 2026-04-18T02:33:03Z telemetry heartbeat seq=720 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:33:10Z telemetry heartbeat seq=721 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:33:17Z telemetry heartbeat seq=722 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:33:24Z telemetry heartbeat seq=723 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:33:31Z telemetry heartbeat seq=724 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:33:38Z telemetry heartbeat seq=725 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:33:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:33:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:33:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:34:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1729
+[INFO] 2026-04-18T02:34:13Z telemetry heartbeat seq=730 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:34:20Z telemetry heartbeat seq=731 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:34:27Z telemetry heartbeat seq=732 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:34:34Z telemetry heartbeat seq=733 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:34:41Z telemetry heartbeat seq=734 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:34:48Z telemetry heartbeat seq=735 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:34:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:35:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:35:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:35:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1739
+[INFO] 2026-04-18T02:35:23Z telemetry heartbeat seq=740 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:35:30Z telemetry heartbeat seq=741 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:35:37Z telemetry heartbeat seq=742 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:35:44Z telemetry heartbeat seq=743 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:35:51Z telemetry heartbeat seq=744 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:35:58Z telemetry heartbeat seq=745 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:36:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:36:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:36:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:36:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1749
+[INFO] 2026-04-18T02:36:33Z telemetry heartbeat seq=750 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:36:40Z telemetry heartbeat seq=751 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:36:47Z telemetry heartbeat seq=752 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:36:54Z telemetry heartbeat seq=753 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:37:01Z telemetry heartbeat seq=754 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:37:08Z telemetry heartbeat seq=755 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:37:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:37:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:37:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:37:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1759
+[INFO] 2026-04-18T02:37:43Z telemetry heartbeat seq=760 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:37:50Z telemetry heartbeat seq=761 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:37:57Z telemetry heartbeat seq=762 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:38:04Z telemetry heartbeat seq=763 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:38:11Z telemetry heartbeat seq=764 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:38:18Z telemetry heartbeat seq=765 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:38:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:38:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:38:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:38:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1769
+[INFO] 2026-04-18T02:38:53Z telemetry heartbeat seq=770 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:39:00Z telemetry heartbeat seq=771 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:39:07Z telemetry heartbeat seq=772 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:39:14Z telemetry heartbeat seq=773 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:39:21Z telemetry heartbeat seq=774 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:39:28Z telemetry heartbeat seq=775 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:39:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:39:42Z profile refresh racer_slot=10 session_cache=hit
+
+[DEBUG] 2026-04-18T02:39:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:39:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1779
+[INFO] 2026-04-18T02:40:03Z telemetry heartbeat seq=780 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:40:10Z telemetry heartbeat seq=781 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:40:17Z telemetry heartbeat seq=782 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:40:24Z telemetry heartbeat seq=783 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:40:31Z telemetry heartbeat seq=784 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:40:38Z telemetry heartbeat seq=785 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:40:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:40:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:40:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:41:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1789
+[INFO] 2026-04-18T02:41:13Z telemetry heartbeat seq=790 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:41:20Z telemetry heartbeat seq=791 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:41:27Z telemetry heartbeat seq=792 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:41:34Z telemetry heartbeat seq=793 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:41:41Z telemetry heartbeat seq=794 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:41:48Z telemetry heartbeat seq=795 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:41:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:42:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:42:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:42:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1799
+[INFO] 2026-04-18T02:42:23Z telemetry heartbeat seq=800 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:42:30Z telemetry heartbeat seq=801 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:42:37Z telemetry heartbeat seq=802 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:42:44Z telemetry heartbeat seq=803 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:42:51Z telemetry heartbeat seq=804 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:42:58Z telemetry heartbeat seq=805 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:43:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:43:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:43:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:43:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1809
+[INFO] 2026-04-18T02:43:33Z telemetry heartbeat seq=810 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:43:40Z telemetry heartbeat seq=811 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:43:47Z telemetry heartbeat seq=812 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:43:54Z telemetry heartbeat seq=813 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:44:01Z telemetry heartbeat seq=814 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:44:08Z telemetry heartbeat seq=815 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:44:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:44:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:44:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:44:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1819
+[INFO] 2026-04-18T02:44:43Z telemetry heartbeat seq=820 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:44:50Z telemetry heartbeat seq=821 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:44:57Z telemetry heartbeat seq=822 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:45:04Z telemetry heartbeat seq=823 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:45:11Z telemetry heartbeat seq=824 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:45:18Z telemetry heartbeat seq=825 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:45:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:45:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:45:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:45:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1829
+[INFO] 2026-04-18T02:45:53Z telemetry heartbeat seq=830 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:46:00Z telemetry heartbeat seq=831 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:46:07Z telemetry heartbeat seq=832 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:46:14Z telemetry heartbeat seq=833 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:46:21Z telemetry heartbeat seq=834 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:46:28Z telemetry heartbeat seq=835 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:46:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:46:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:46:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:46:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1839
+[INFO] 2026-04-18T02:47:03Z telemetry heartbeat seq=840 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:47:10Z telemetry heartbeat seq=841 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:47:17Z telemetry heartbeat seq=842 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:47:24Z telemetry heartbeat seq=843 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:47:31Z telemetry heartbeat seq=844 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:47:38Z telemetry heartbeat seq=845 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:47:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:47:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:47:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:48:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1849
+[INFO] 2026-04-18T02:48:13Z telemetry heartbeat seq=850 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:48:20Z telemetry heartbeat seq=851 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T02:48:27Z telemetry heartbeat seq=852 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:48:34Z telemetry heartbeat seq=853 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:48:41Z telemetry heartbeat seq=854 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:48:48Z telemetry heartbeat seq=855 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:48:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:49:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:49:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:49:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1859
+[INFO] 2026-04-18T02:49:23Z telemetry heartbeat seq=860 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:49:30Z telemetry heartbeat seq=861 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:49:37Z telemetry heartbeat seq=862 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:49:44Z telemetry heartbeat seq=863 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:49:51Z telemetry heartbeat seq=864 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:49:58Z telemetry heartbeat seq=865 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:50:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:50:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:50:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:50:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1869
+[INFO] 2026-04-18T02:50:33Z telemetry heartbeat seq=870 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:50:40Z telemetry heartbeat seq=871 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:50:47Z telemetry heartbeat seq=872 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:50:54Z telemetry heartbeat seq=873 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:51:01Z telemetry heartbeat seq=874 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:51:08Z telemetry heartbeat seq=875 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:51:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:51:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:51:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:51:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1879
+[INFO] 2026-04-18T02:51:43Z telemetry heartbeat seq=880 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:51:50Z telemetry heartbeat seq=881 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:51:57Z telemetry heartbeat seq=882 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:52:04Z telemetry heartbeat seq=883 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:52:11Z telemetry heartbeat seq=884 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:52:18Z telemetry heartbeat seq=885 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:52:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:52:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:52:39Z profile refresh racer_slot=01 session_cache=hit
+
+[WARN] 2026-04-18T02:52:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1889
+[INFO] 2026-04-18T02:52:53Z telemetry heartbeat seq=890 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:53:00Z telemetry heartbeat seq=891 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:53:07Z telemetry heartbeat seq=892 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:53:14Z telemetry heartbeat seq=893 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:53:21Z telemetry heartbeat seq=894 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:53:28Z telemetry heartbeat seq=895 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:53:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T02:53:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T02:53:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T02:53:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1899
+[INFO] 2026-04-18T02:54:03Z telemetry heartbeat seq=900 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:54:10Z telemetry heartbeat seq=901 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:54:17Z telemetry heartbeat seq=902 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:54:24Z telemetry heartbeat seq=903 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:54:31Z telemetry heartbeat seq=904 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:54:38Z telemetry heartbeat seq=905 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:54:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T02:54:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T02:54:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T02:55:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1909
+[INFO] 2026-04-18T02:55:13Z telemetry heartbeat seq=910 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:55:20Z telemetry heartbeat seq=911 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:55:27Z telemetry heartbeat seq=912 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:55:34Z telemetry heartbeat seq=913 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:55:41Z telemetry heartbeat seq=914 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:55:48Z telemetry heartbeat seq=915 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:55:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T02:56:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T02:56:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T02:56:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1919
+[INFO] 2026-04-18T02:56:23Z telemetry heartbeat seq=920 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:56:30Z telemetry heartbeat seq=921 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:56:37Z telemetry heartbeat seq=922 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:56:44Z telemetry heartbeat seq=923 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:56:51Z telemetry heartbeat seq=924 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:56:58Z telemetry heartbeat seq=925 lane_sync=ok cache=warm
+
+[DEBUG] 2026-04-18T02:57:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T02:57:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T02:57:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T02:57:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1929
+[INFO] 2026-04-18T02:57:33Z telemetry heartbeat seq=930 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:57:40Z telemetry heartbeat seq=931 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:57:47Z telemetry heartbeat seq=932 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:57:54Z telemetry heartbeat seq=933 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:58:01Z telemetry heartbeat seq=934 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:58:08Z telemetry heartbeat seq=935 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:58:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T02:58:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T02:58:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T02:58:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1939
+[INFO] 2026-04-18T02:58:43Z telemetry heartbeat seq=940 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:58:50Z telemetry heartbeat seq=941 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:58:57Z telemetry heartbeat seq=942 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:59:04Z telemetry heartbeat seq=943 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:59:11Z telemetry heartbeat seq=944 lane_sync=ok cache=warm
+[INFO] 2026-04-18T02:59:18Z telemetry heartbeat seq=945 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T02:59:25Z profile refresh racer_slot=11 session_cache=hit
+[DEBUG] 2026-04-18T02:59:32Z profile refresh racer_slot=12 session_cache=hit
+[DEBUG] 2026-04-18T02:59:39Z profile refresh racer_slot=01 session_cache=hit
+[WARN] 2026-04-18T02:59:46Z probe pattern detected route=/assets/posters/index.html burst_id=B1949
+[INFO] 2026-04-18T02:59:53Z telemetry heartbeat seq=950 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:00:00Z telemetry heartbeat seq=951 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:00:07Z telemetry heartbeat seq=952 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:00:14Z telemetry heartbeat seq=953 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:00:21Z telemetry heartbeat seq=954 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:00:28Z telemetry heartbeat seq=955 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T03:00:35Z profile refresh racer_slot=09 session_cache=hit
+[DEBUG] 2026-04-18T03:00:42Z profile refresh racer_slot=10 session_cache=hit
+[DEBUG] 2026-04-18T03:00:49Z profile refresh racer_slot=11 session_cache=hit
+[WARN] 2026-04-18T03:00:56Z probe pattern detected route=/assets/posters/index.html burst_id=B1959
+[INFO] 2026-04-18T03:01:03Z telemetry heartbeat seq=960 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:01:10Z telemetry heartbeat seq=961 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:01:17Z telemetry heartbeat seq=962 lane_sync=ok cache=warm
+
+[INFO] 2026-04-18T03:01:24Z telemetry heartbeat seq=963 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:01:31Z telemetry heartbeat seq=964 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:01:38Z telemetry heartbeat seq=965 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T03:01:45Z profile refresh racer_slot=07 session_cache=hit
+[DEBUG] 2026-04-18T03:01:52Z profile refresh racer_slot=08 session_cache=hit
+[DEBUG] 2026-04-18T03:01:59Z profile refresh racer_slot=09 session_cache=hit
+[WARN] 2026-04-18T03:02:06Z probe pattern detected route=/assets/posters/index.html burst_id=B1969
+[INFO] 2026-04-18T03:02:13Z telemetry heartbeat seq=970 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:02:20Z telemetry heartbeat seq=971 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:02:27Z telemetry heartbeat seq=972 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:02:34Z telemetry heartbeat seq=973 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:02:41Z telemetry heartbeat seq=974 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:02:48Z telemetry heartbeat seq=975 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T03:02:55Z profile refresh racer_slot=05 session_cache=hit
+[DEBUG] 2026-04-18T03:03:02Z profile refresh racer_slot=06 session_cache=hit
+[DEBUG] 2026-04-18T03:03:09Z profile refresh racer_slot=07 session_cache=hit
+[WARN] 2026-04-18T03:03:16Z probe pattern detected route=/assets/posters/index.html burst_id=B1979
+[INFO] 2026-04-18T03:03:23Z telemetry heartbeat seq=980 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:03:30Z telemetry heartbeat seq=981 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:03:37Z telemetry heartbeat seq=982 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:03:44Z telemetry heartbeat seq=983 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:03:51Z telemetry heartbeat seq=984 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:03:58Z telemetry heartbeat seq=985 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T03:04:05Z profile refresh racer_slot=03 session_cache=hit
+[DEBUG] 2026-04-18T03:04:12Z profile refresh racer_slot=04 session_cache=hit
+[DEBUG] 2026-04-18T03:04:19Z profile refresh racer_slot=05 session_cache=hit
+[WARN] 2026-04-18T03:04:26Z probe pattern detected route=/assets/posters/index.html burst_id=B1989
+[INFO] 2026-04-18T03:04:33Z telemetry heartbeat seq=990 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:04:40Z telemetry heartbeat seq=991 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:04:47Z telemetry heartbeat seq=992 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:04:54Z telemetry heartbeat seq=993 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:05:01Z telemetry heartbeat seq=994 lane_sync=ok cache=warm
+[INFO] 2026-04-18T03:05:08Z telemetry heartbeat seq=995 lane_sync=ok cache=warm
+[DEBUG] 2026-04-18T03:05:15Z profile refresh racer_slot=01 session_cache=hit
+[DEBUG] 2026-04-18T03:05:22Z profile refresh racer_slot=02 session_cache=hit
+[DEBUG] 2026-04-18T03:05:29Z profile refresh racer_slot=03 session_cache=hit
+[WARN] 2026-04-18T03:05:36Z probe pattern detected route=/assets/posters/index.html burst_id=B1999
+
+[INFO] 2026-04-18T03:05:43Z telemetry heartbeat seq=1000 lane_sync=ok cache=warm
+[INFO] 2026-04-18T09:21:05Z maintenance job ended cleanly

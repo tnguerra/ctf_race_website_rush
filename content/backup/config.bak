@@ -1,0 +1,5 @@
+ENV=dev
+PORTAL_LOGIN=/portal/login
+API_ENDPOINT=/api/itembox
+TICKET_ISSUER=admin-only
+TODO_REMOVE=legacy-hidden-route

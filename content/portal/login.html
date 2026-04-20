@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Race Portal Login</title>
+  <link rel="stylesheet" href="/assets/mario-kart.css">
+</head>
+<body>
+  <header class="race-header">
+    <h1 class="race-header__title">Mario Kart Grand Prix</h1>
+  </header>
+  
+  <section class="race-marquee" aria-hidden="true">
+    <div class="race-marquee__lane">
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+    </div>
+  </section>
+
+  <main class="shell">
+    <section class="card">
+      <p class="eyebrow">Race Portal</p>
+      <h1>User Login</h1>
+      <p class="lead">Sign in with your racer or staff account to access tickets and profile details.</p>
+
+      <form id="login-form" class="login-form">
+        <label>
+          Username
+          <input type="text" name="username" autocomplete="username" required>
+        </label>
+        <label>
+          Password
+          <input type="password" name="password" autocomplete="current-password" required>
+        </label>
+        <button type="submit">Sign in</button>
+      </form>
+
+      <p id="message" class="message" aria-live="polite"></p>
+      <p class="hint"><a href="/">Back to ticket sales</a></p>
+    </section>
+  </main>
+  <script src="/assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+[WARN] Ticket issuance denied: admin required
+[WARN] Ticket issue pipeline is locked to the admin account
+[INFO] Admin bootstrap account resolved from runtime env
+[INFO] Seat assignment requests are accepted only after admin login
+[WARN] Invalid login attempt for user racer15
+[WARN] Invalid login attempt for user racer99
+[ERROR] stale-session-rejected: boot token mismatch
+[ERROR] Session role check failed: user=racer15 role=user
+[INFO] Redirected unauthorized request to /portal/login
+[INFO] Redirected ticket view request to /portal/login
+[WARN] Admin-only route probe blocked: /admin/seating/create-user

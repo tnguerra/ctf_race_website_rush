@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Driver Profile</title>
+  <link rel="stylesheet" href="/assets/mario-kart.css">
+</head>
+<body>
+  <header class="race-header">
+    <h1 class="race-header__title">Mario Kart Grand Prix</h1>
+  </header>
+  
+  <section class="race-marquee" aria-hidden="true">
+    <div class="race-marquee__lane">
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+    </div>
+  </section>
+
+  <main class="shell">
+    <section class="card">
+      <p class="eyebrow">Driver Profile</p>
+      <h1>{{DISPLAY_NAME}}</h1>
+      <p class="message">Kart: <strong>{{RACE_NAME}}</strong></p>
+      <p class="message">Ticket ID: <strong>{{TICKET_ID}}</strong></p>
+      <p class="message">Stadium seat: <strong>{{SEAT_CODE}}</strong></p>
+      <p class="message">Seating ID: <strong>{{SEATING_ID}}</strong></p>
+      {{SEATING_LINK}}
+      <form id="logout-form" class="login-form">
+        <button type="submit">Log out</button>
+      </form>
+    </section>
+  </main>
+  <script>
+    document.getElementById('logout-form').addEventListener('submit', async (event) => {
+      event.preventDefault();
+      await fetch('/api/logout', { method: 'POST' });
+      window.location.href = '/';
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin Seating</title>
+  <link rel="stylesheet" href="/assets/mario-kart.css">
+</head>
+<body>
+  <header class="race-header">
+    <h1 class="race-header__title">Mario Kart Grand Prix</h1>
+  </header>
+  
+  <section class="race-marquee" aria-hidden="true">
+    <div class="race-marquee__lane">
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+      <span class="race-marquee__brand">🏁 Race Weekend</span>
+      <span class="race-marquee__pill">🍄 Mushroom Cup</span>
+      <span class="race-marquee__pill">🌸 Flower Cup</span>
+      <span class="race-marquee__pill">⭐ Star Cup</span>
+      <span class="race-marquee__pill">🌈 Rainbow Road</span>
+    </div>
+  </section>
+
+  <main class="shell">
+    <section class="card" style="width:min(100%,600px)">
+      <p class="eyebrow">Admin</p>
+      <h1>Viewer Ticket Control</h1>
+      <p class="lead"><a href="/admin">Admin home</a> | <a href="/admin/tickets">Racer grid</a></p>
+      {{CREATED_NOTICE}}
+
+      <form method="post" action="/admin/seating/create-user" class="login-form">
+        <label>Username<input type="text" name="username" placeholder="student username" required></label>
+        <label>Viewer name<input type="text" name="display_name" placeholder="Viewer name" required></label>
+        <label>VIP seat
+          <select name="seat_code" required>
+            {{VIP_OPTIONS}}
+          </select>
+        </label>
+        <button type="submit">Create viewer ticket</button>
+      </form>
+
+      <p class="hint" style="margin-top:20px;">Choose one of the three VIP passes. All three resolve to the same final ticket value.</p>
+      <div class="message" style="overflow:auto; margin-top:20px;">
+        <table style="width:100%; border-collapse:collapse;">
+          <thead>
+            <tr>
+              <th style="text-align:left;">Seat</th>
+              <th style="text-align:left;">Type</th>
+              <th style="text-align:left;">Status</th>
+              <th style="text-align:left;">Claimed by</th>
+              <th style="text-align:left;">Token</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{SEAT_ROWS}}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

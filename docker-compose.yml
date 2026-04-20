@@ -1,0 +1,16 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      APP_NAME: ctf_race_website
+      SESSION_SECRET: change-me-in-later-stages
+      DEFAULT_ADMIN_USER: pitmarshal
+      DEFAULT_ADMIN_PASSWORD: mushroomgrid
+      STUDENT_DEFAULT_PASSWORD: racefan2026
+      FLAG_VALUE: FLAG{foundation_ready}
+      DB_PATH: /data/ctf_data.db
+    volumes:
+      - ./data:/data
+    restart: unless-stopped

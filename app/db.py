@@ -229,7 +229,7 @@ def upsert_seating(seat_code: str, status: str, note: str) -> None:
             COALESCE((SELECT seat_type FROM seating WHERE seat_code = ?), 'viewer'),
             ?, ?,
             (SELECT claimed_by_user_id FROM seating WHERE seat_code = ?),
-            COALESCE((SELECT seat_token FROM seating WHERE seat_code = ?), 'FLAG{seat_pending}')
+            COALESCE((SELECT seat_token FROM seating WHERE seat_code = ?), 'SEAT_PENDING')
         )
         """,
         (seat_code, seat_code, seat_code, status, note, seat_code, seat_code),

@@ -1,6 +1,6 @@
 Dev Relay Notes:
 
-Luigi -> Peach
+Luigi -> pitmarshal
 Race is about to start. Hurry up and get these things in order.
 
 1) Portal login route is live, but old hidden path still exists. Remove it after launch.

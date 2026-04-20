@@ -4,7 +4,7 @@ from pathlib import Path
 from secrets import token_hex
 
 from fastapi import FastAPI, Form, HTTPException, Request, Response
-from fastapi.responses import HTMLResponse, JSONResponse, RedirectResponse
+from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from starlette.middleware.sessions import SessionMiddleware
 
@@ -86,8 +86,24 @@ def assets_index_redirect() -> Response:
     return RedirectResponse(url="/portal/login", status_code=303)
 
 
+@app.get("/backup/{file_name:path}")
+def backup_file(file_name: str) -> Response:
+    file_path = (CONTENT_DIR / "backup" / file_name).resolve()
+    backup_root = (CONTENT_DIR / "backup").resolve()
+
+    if backup_root not in file_path.parents and file_path != backup_root:
+        raise HTTPException(status_code=404, detail="File not found")
+    if not file_path.exists() or not file_path.is_file():
+        raise HTTPException(status_code=404, detail="File not found")
+
+    content = file_path.read_text(encoding="utf-8")
+    if file_path.suffix.lower() == ".html":
+        return HTMLResponse(content)
+    return PlainTextResponse(content)
+
+
 app.mount("/assets", StaticFiles(directory=STATIC_DIR, html=True), name="assets")
-app.mount("/hidden", StaticFiles(directory=CONTENT_DIR / "hidden", html=True), name="hidden")
+app.mount("/hidden", StaticFiles(directory=CONTENT_DIR / "hidden", html=False), name="hidden")
 app.mount("/backup", StaticFiles(directory=CONTENT_DIR / "backup", html=True), name="backup")
 app.mount("/logs", StaticFiles(directory=CONTENT_DIR / "logs", html=True), name="logs")
 

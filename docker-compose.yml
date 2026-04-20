@@ -7,7 +7,7 @@ services:
       APP_NAME: ctf_race_website
       SESSION_SECRET: change-me-in-later-stages
       DEFAULT_ADMIN_USER: pitmarshal
-      DEFAULT_ADMIN_PASSWORD: mushroomgrid
+      DEFAULT_ADMIN_PASSWORD: mushr00mgrid
       STUDENT_DEFAULT_PASSWORD: racefan2026
       FLAG_VALUE: FLAG{foundation_ready}
       DB_PATH: /data/ctf_data.db

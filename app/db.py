@@ -53,7 +53,7 @@ def init_db() -> None:
     )
 
     default_admin_user = os.getenv("DEFAULT_ADMIN_USER", "pitmarshal")
-    default_admin_password = os.getenv("DEFAULT_ADMIN_PASSWORD", "mushroomgrid")
+    default_admin_password = os.getenv("DEFAULT_ADMIN_PASSWORD", "mushr00mgrid")
 
     conn.execute(
         """

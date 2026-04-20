@@ -60,6 +60,15 @@
       font-size: 0.9rem;
       background: rgba(255, 225, 90, 0.08);
     }
+
+    .competition-flyer {
+      width: 100%;
+      max-width: 180px;
+      display: block;
+      margin: 0 auto 8px;
+      object-fit: contain;
+      aspect-ratio: auto;
+    }
   </style>
 </head>
 <body>
@@ -69,16 +78,16 @@
   
   <section class="race-marquee" aria-hidden="true">
     <div class="race-marquee__lane">
-      <span class="race-marquee__brand">ðŸ Race Weekend</span>
-      <span class="race-marquee__pill">ðŸ„ Mushroom Cup</span>
-      <span class="race-marquee__pill">ðŸŒ¸ Flower Cup</span>
-      <span class="race-marquee__pill">â­ Star Cup</span>
-      <span class="race-marquee__pill">ðŸŒˆ Rainbow Road</span>
-      <span class="race-marquee__brand">ðŸ Race Weekend</span>
-      <span class="race-marquee__pill">ðŸ„ Mushroom Cup</span>
-      <span class="race-marquee__pill">ðŸŒ¸ Flower Cup</span>
-      <span class="race-marquee__pill">â­ Star Cup</span>
-      <span class="race-marquee__pill">ðŸŒˆ Rainbow Road</span>
+      <span class="race-marquee__brand">&#127937; Race Weekend</span>
+      <span class="race-marquee__pill">&#127812; Mushroom Cup</span>
+      <span class="race-marquee__pill">&#127800; Flower Cup</span>
+      <span class="race-marquee__pill">&#11088; Star Cup</span>
+      <span class="race-marquee__pill">&#127752; Rainbow Road</span>
+      <span class="race-marquee__brand">&#127937; Race Weekend</span>
+      <span class="race-marquee__pill">&#127812; Mushroom Cup</span>
+      <span class="race-marquee__pill">&#127800; Flower Cup</span>
+      <span class="race-marquee__pill">&#11088; Star Cup</span>
+      <span class="race-marquee__pill">&#127752; Rainbow Road</span>
     </div>
   </section>
 
@@ -86,11 +95,11 @@
     <section class="card archive-card">
       <p class="eyebrow">Assets</p>
       <h1>Race Poster Archive</h1>
-      <p class="lead">Marketing gallery for racer assets. Click any racer JPG preview to download immediately for offline review.</p>
+      <p class="lead">Marketing gallery for racer assets. Click any image preview to download immediately for offline review.</p>
 
       <div class="poster-grid">
         <div class="poster-item">
-          <img class="poster-thumb" src="/assets/posters/competi.jpeg" alt="Competition flyer" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+          <img class="poster-thumb competition-flyer is-downloadable" src="/assets/posters/competi.jpeg" alt="Competition flyer" data-download="competi.jpeg" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
           <p class="poster-missing" style="display:none;">Missing image preview</p>
           <strong>Competition Flyer</strong>
           <p class="hint" style="margin:6px 0 0;">file: competi.jpeg</p>

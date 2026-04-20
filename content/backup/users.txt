@@ -11,9 +11,8 @@ racer10:shyguy
 racer11:rosalina
 racer12:toadette
 
-# spectator export dump (100 total, non-login broadcast records)
-# challenge hint: only the top racer01-racer12 rows are useful for credential workflow
-# lines below are archival export noise only; they are not real portal accounts and will never authenticate
+# spectator export dump (100 total, non-login broadcast records) remember to fix the hashes later while you're obfuscating the
+# racer passwords here also
 viewer_north_014:nonlogin_export_only_5c8df2d72f7d4e9796b3bd41f3045e12
 viewer_west_221:nonlogin_export_only_aa91d56f18d64f8f9c5cf4cd9a0bdb67
 viewer_south_087:nonlogin_export_only_7d39e2f5fb22421a9ec4abccae7d2a4b
